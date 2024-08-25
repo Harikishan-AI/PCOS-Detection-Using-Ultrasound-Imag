@@ -24,18 +24,23 @@ outcomes and reproductive health."
 
 ## Methodology
 
-1. Data Collection
- -Gather diverse ultrasound images from PCOS and non-PCOS cases.
- -Apply rigorous preprocessing for data quality and uniformity.
-2. Image Segmentation:
- -Employ advanced segmentation techniques to isolate relevant anatomical structures.
- -Focus on ovarian cysts and follicles for PCOS diagnosis.
-3. Deep Learning Model:
- -Develop a CNN-based model (YOLOv8.0.20) for multi-class classification.
- -Train on preprocessed data, augmenting for generalization.
-4. Validation and Testing:
- -Apply robust cross-validation and independent testing.
- -Measure accuracy, sensitivity, specificity, and other key metrics.
+### 1. Data Collection
+- **Source Diverse Data:** Gather a comprehensive set of ultrasound images from both PCOS and non-PCOS cases.
+- **Data Quality:** Apply rigorous preprocessing steps to ensure data quality, uniformity, and consistency across the dataset.
+
+### 2. Image Segmentation
+- **Advanced Techniques:** Use cutting-edge segmentation techniques to accurately isolate relevant anatomical structures in the ultrasound images.
+- **Focus Areas:** Concentrate on segmenting ovarian cysts and follicles, which are critical for PCOS diagnosis.
+
+### 3. Deep Learning Model
+- **CNN Architecture:** Develop a CNN-based model using YOLOv8.0.20, optimized for multi-class classification tasks.
+- **Training:** Train the model on preprocessed and augmented data to improve generalization and robustness.
+
+### 4. Validation and Testing
+- **Cross-Validation:** Implement robust cross-validation techniques to assess the model's performance.
+- **Independent Testing:** Evaluate the model on an independent test set, measuring accuracy, sensitivity, specificity, and other essential metrics.
+
+
 
 
 
