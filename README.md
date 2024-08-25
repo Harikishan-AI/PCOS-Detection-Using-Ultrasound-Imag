@@ -1,4 +1,4 @@
-# PCOS-Detection-Using-Ultrasound-Imag
+# PCOS Detection Using Ultrasound Image
 
 Polycystic Ovary Syndrome (PCOS) is a prevalent endocrine condition in
 reproductive-age women. Early and accurate diagnosis is crucial. This study
