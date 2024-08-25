@@ -45,8 +45,6 @@ outcomes and reproductive health."
 
 ![image](https://github.com/user-attachments/assets/7793f9e6-fa21-4b9f-b414-e8ad628cb0c3)
 
-![image](https://github.com/user-attachments/assets/6d81be40-2673-44f1-af96-ba839f19fb6c)
-
 ## Conclusion
 
 Through the development and rigorous evaluation of our YOLOv8.0.20-based PCOS detection model, we have made significant strides in addressing the critical challenges associated with PCOS diagnosis. Our model has shown promising results in terms of accuracy, speed, and interpretability.
