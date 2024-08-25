@@ -10,3 +10,14 @@ interpretation, offering a more reliable and objective PCOS diagnosis. This
 breakthrough has the potential to enhance patient outcomes and
 reproductive health. Future research aims to refine and implement this
 approach in clinical settings
+
+## Problem Statement
+
+The current diagnosis process heavily relies on subjective manual
+interpretation of ultrasound images, which can be challenging and prone to
+human bias. This study addresses this problem by proposing an innovative
+ultrasound-based PCOS detection method that combines advanced
+picture segmentation and CNN-based deep learning. The goal is to create
+an automated and objective diagnostic solution that improves the
+accuracy of PCOS identification and subsequently enhances patient
+outcomes and reproductive health."
