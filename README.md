@@ -1,2 +1,12 @@
 # PCOS-Detection-Using-Ultrasound-Imag
-Data folder consist of 'train' and 'test' subfolders containing 2 categories of data 'infected' and 'notinfected' infected : Images of ovaries having PCOS notinfected : Images of healthy ovaries
+
+Polycystic Ovary Syndrome (PCOS) is a prevalent endocrine condition in
+reproductive-age women. Early and accurate diagnosis is crucial. This study
+presents a novel approach, employing advanced picture segmentation and
+CNN-based deep learning on a diverse PCOS ultrasound image dataset. We
+preprocess images, segment ovarian follicles and cysts, and leverage deep
+learning for automated feature extraction. Our method outperforms manual
+interpretation, offering a more reliable and objective PCOS diagnosis. This
+breakthrough has the potential to enhance patient outcomes and
+reproductive health. Future research aims to refine and implement this
+approach in clinical settings
